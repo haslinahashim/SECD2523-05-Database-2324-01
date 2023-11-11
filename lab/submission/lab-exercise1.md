@@ -25,12 +25,11 @@
     <td></td>
     <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
  </tr>
-  <!-- Exclude Human Compilers -->
   <tr>
     <td>4</td>
     <td>Human Compilers</td>
     <td></td>
-    <th></th>
+    <th><a href="submissions/lab1/human_compilers" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
   </tr>
 </table>
 
