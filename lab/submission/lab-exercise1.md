@@ -36,6 +36,7 @@
   <td>Data Drifter</td>
   <td></td>
   <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+  <th><a href="submissions/data_drifter_lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
 </tr>
 
   </table>
