@@ -1,5 +1,3 @@
-# Submission of Lab Exercise 1
-
 <table>
   <tr>
     <th>No.</th>
@@ -11,33 +9,30 @@
     <td>1</td>
     <td>Hello World</td>
     <td></td>
-    <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+    <th><a href="submissions/hello_world_lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>Pirate King</td>
     <td></td>
-    <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
-  </tr>
-  
+    <th><a href="submissions/pirate_king_lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>Power Ranger</td>
     <td></td>
-    <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+    <th><a href="submissions/power_ranger_lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
  </tr>
   <tr>
     <td>4</td>
     <td>Human Compilers</td>
     <td></td>
-    <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+    <th><a href="submissions/human_compilers_lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   <tr>
-  <td>5</td>
-  <td>Data Drifter</td>
-  <td></td>
-  <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
-</tr>
-
-  </table>
+    <td>5</td>
+    <td>Data Drifter</td>
+    <td></td>
+    <th><a href="submissions/data_drifter_lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+  </tr>
+</table>
