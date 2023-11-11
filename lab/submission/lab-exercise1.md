@@ -19,11 +19,7 @@
     <td></td>
     <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
   </tr>
-  <tr>
-    <td>5</td>
-    <td>Data Drifter</td>
-    <td></td>
-    <th><a href="submissions/lab1_data_drifter" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+  
   </tr>
   <tr>
     <td>3</td>
