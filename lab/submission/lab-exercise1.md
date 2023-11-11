@@ -24,12 +24,13 @@
     <td>Power Ranger</td>
     <td></td>
     <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
-  </tr>
+ </tr>
+  <!-- Exclude Human Compilers -->
   <tr>
     <td>4</td>
     <td>Human Compilers</td>
     <td></td>
-    <th><a href="submissions/lab1" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+    <th></th>
   </tr>
 </table>
 
