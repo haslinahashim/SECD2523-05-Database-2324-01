@@ -21,14 +21,15 @@
   </tr>
   <tr>
     <td>3</td>
+     </tr>
+    <td>Power Ranger</td>
+    <td></td>
+    <th><a href="submissions/lab2" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
+  </tr>
      <tr>
     <td>4</td>
     <td>Human Compilers</td>
     <td></td>
     <th><a href="submissions/lab2" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
-  </tr>
-    <td>Power Ranger</td>
-    <td></td>
-    <th><a href="submissions/lab2" ><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
-  </tr>
+ 
 </table>
