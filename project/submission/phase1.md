@@ -33,6 +33,12 @@
   </tr>
   <tr>
     <td>3</td>
+    <td>System Virtuoso</td>
+    <td></td>
+    <th><a href="../phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
+  </tr>
+  <tr>
+    <td>3</td>
     <td>Team 6</td>
     <td></td>
     <th><a href="../phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
