@@ -43,5 +43,10 @@
     <td></td>
     <th><a href="../phase%201/submission/Team6-Phase1" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
   </tr>
-  
+   <tr>
+    <td>3</td>
+    <td>GreenScape</td>
+    <td></td>
+    <th><a href="../phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
+  </tr>
 </table>
