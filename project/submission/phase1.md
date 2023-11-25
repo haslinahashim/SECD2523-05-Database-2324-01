@@ -41,7 +41,7 @@
     <td>3</td>
     <td>Team 6</td>
     <td></td>
-    <th><a href="../phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
+    <th><a href="../phase%201/submission/Team6-Phase1" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   
 </table>
